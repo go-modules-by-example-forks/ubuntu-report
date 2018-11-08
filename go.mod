@@ -11,7 +11,6 @@ require (
 	github.com/sirupsen/logrus v1.0.4
 	github.com/spf13/cobra v0.0.1
 	github.com/spf13/pflag v1.0.0 // indirect
-	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.2.2 // indirect
 	golang.org/x/crypto v0.0.0-20180308185624-c7dcf104e3a7 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
